@@ -1,5 +1,7 @@
-## Hi there 👋
+## Kim here!
+she/her
 
+Learning to write clean and concise code to create fun projects with.
 <!--
 **Kinukeo/Kinukeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
